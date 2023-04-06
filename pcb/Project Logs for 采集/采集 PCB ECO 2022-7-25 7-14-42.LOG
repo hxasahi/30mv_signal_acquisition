@@ -1,0 +1,36 @@
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=op07cdr
+Change Component DesignItemId : Designator=U6 Old DesignItemId= New DesignItemId=op07cdr
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=tp7660
+Change component parameters: Designator = "*1"; Footprint = "M3 125X200"; UniqueID = "\GEAOZIHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "*2"; Footprint = "M3 125X200"; UniqueID = "\RGNCYQWM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "*3"; Footprint = "M3 125X200"; UniqueID = "\BEPRBWAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "*4"; Footprint = "M3 125X200"; UniqueID = "\ULPLGVZL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(3296W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VR2(3296W)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU5_1 Pin=VR1-1
+Added Pin To Net: NetName=3V3 Pin=VR1-2
+Added Pin To Net: NetName=NetU5_8 Pin=VR1-2
+Added Pin To Net: NetName=NetU6_1 Pin=VR2-1
+Added Pin To Net: NetName=3V3 Pin=VR2-2
+Added Pin To Net: NetName=NetU6_8 Pin=VR2-2
+Added Member To Class: ClassName=采集 Member=Component VR1 20k
+Added Member To Class: ClassName=采集 Member=Component VR2 20k
+Added Room: Name=采集

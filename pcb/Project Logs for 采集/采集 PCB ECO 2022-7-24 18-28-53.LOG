@@ -1,0 +1,10 @@
+Added Component: Designator=USB?(USB-micro_B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=USB?-1
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=3V3 Pin=VR1-2
+Added Pin To Net: NetName=3V3 Pin=VR2-2
+Added Member To Class: ClassName=采集 Member=Component USB? Micro-USB
+Added Room: Name=采集

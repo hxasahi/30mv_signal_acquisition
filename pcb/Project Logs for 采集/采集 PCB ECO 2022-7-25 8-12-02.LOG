@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=D3-A
+Removed Member From Class: ClassName=采集 Member=C5
+Removed Member From Class: ClassName=采集 Member=D3
+Added Pin To Net: NetName=3V3 Pin=U4-1
+Added Room: Name=采集
